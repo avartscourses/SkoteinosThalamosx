@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   video3.addEventListener( 'play', () => {
     video3.currentTime = 9;
-  //});
+  });
     
      //image 1
   const anchor4 = mindarThree.addAnchor(3);
